@@ -1,0 +1,14 @@
+For Calibration:
+
+Need Screen for interaction?
+
+Make a second thread that listens for a certain input?
+Hide other outputs momentary couts for a moment. Have a calibrate_on var??
+
+After that, the screen prompts you to make positions for 10 seconds each.
+
+Just don't take data immediately. Act like PC grub?
+
+-------------------
+
+After, GPS location, EKG monitor, and update appearance of data aquisition. (Perhaps a maanual adjuster for Thresholds?)

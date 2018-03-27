@@ -1,0 +1,1 @@
+g++ -o fall fall.cpp -lbluetooth -lwiringPi

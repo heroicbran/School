@@ -1,0 +1,26 @@
+PA2 To DO:
+
+X) Bind clients to multiple servers w/ if (Servers use ports starting with 2000) 
+
+X) Mod GetID?)
+
+X) Make random file record peer info
+
+X) Search goes through each of the servers w/ for loop
+
+X) Threads still interact with each other the same as before (peer use ports with 9000).
+
+--- MAKE SURE THIS^ WORKS FIRST!
+
+4) Testing. Make the server(s) wait for all clients to connect, then have them all use their search together.
+
+5. Fix client/server closing issues
+
+
+
+//////////////////////////
+Issue: Main is bloated because of issues with functions and rpc s/c
+
+Get_ID still centralized
+
+
